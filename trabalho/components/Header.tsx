@@ -23,7 +23,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     padding: 10,
-    backgroundColor: '#1F1F1F',
+    backgroundColor: '#111111',
+    marginTop: 40,
   },
   searchBar: {
     flex: 1,
