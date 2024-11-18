@@ -1,0 +1,88 @@
+const contatos = [
+  {
+    id: '1',
+    nome: 'Ana Carolina',
+    mensagem: 'Tá tudo certo pro final de semana?',
+    horario: '16:30',
+    avatar: 'https://i.pinimg.com/236x/4c/20/2b/4c202b6376037a5fc660a6c7b6e55661.jpg',
+  },
+  {
+    id: '2',
+    nome: 'Pedro H.',
+    mensagem: 'Fechou aquele rolê? Me avisa!',
+    horario: '09:30',
+    avatar: 'https://media.gettyimages.com/id/1499725120/pt/foto/rio-de-janeiro-brazil-february-1-pedro-guilherme-abreu-dos-santos-of-cr-flamengo-on-february-1.jpg?s=612x612&w=gi&k=20&c=_9jQ7D8M1rQgauun_MC9722InKlV7oLSDGq8G1jwIg4=',
+  },
+  {
+    id: '3',
+    nome: 'Mariana',
+    mensagem: 'Preciso falar contigo... tem um minuto?',
+    horario: '10:45',
+    avatar: null,
+  },
+  {
+    id: '4',
+    nome: 'Lucas Pereira',
+    mensagem: 'Ta forte em mlk!',
+    horario: '11:30',
+    avatar: 'https://www.agendartecultura.com.br/wp-content/uploads/2022/12/meneson.jpg',
+  },
+  {
+    id: '5',
+    nome: 'Paizão',
+    mensagem: 'Sobe ai pra cortar o cabelo!',
+    horario: '10:15',
+    avatar: null,
+  },
+  {
+    id: '6',
+    nome: 'Rafael Lima',
+    mensagem: 'Mano, esqueci de te avisar!',
+    horario: '13:20',
+    avatar:'https://via.placeholder.com/150',
+  },
+  {
+    id: '7',
+    nome: 'Bianca',
+    mensagem: 'Passa aqui mais tarde pra tu ver 😈 kkkkkkk',
+    horario: '14:50',
+    avatar: 'https://startse-uploader.s3.us-east-2.amazonaws.com/medium_camila_farani_595ffabfec.jpg',
+  },
+  {
+    id: '8',
+    nome: 'Thiago Ramos',
+    mensagem: 'Já almoçou? Bora almoçar no restaurante da tia!',
+    horario: '15:30',
+    avatar: 'https://via.placeholder.com/150',
+  },
+  {
+    id: '9',
+    nome: 'Mãe <3',
+    mensagem: 'Olha essa torta que delícia!',
+    horario: '16:45',
+    avatar: null,
+  },
+  {
+    id: '10',
+    nome: 'Lincon (meu pato)',
+    mensagem: 'Cszin dos cria?',
+    horario: '17:55',
+    avatar: 'https://s2-techtudo.glbimg.com/CrFk9WZa-5fM7lDqspu_pCbU5Rg=/0x0:800x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/i/M/DrV6HuRQia5wOxTBhZDg/800px-fnx-at-esl-one-belo-horizonte-2018.jpg',
+  },
+  {
+    id: '11',
+    nome: 'Juliana Rodrigues',
+    mensagem: 'Não esquece do aniversário amanhã!',
+    horario: '18:20',
+    avatar: 'https://dentistaubatuba.com.br/wp-content/uploads/2021/06/o-que-as-pessoas-bonitas-tem-em-comum-2.jpg',
+  },
+  {
+    id: '12',
+    nome: 'Felipe Araújo',
+    mensagem: 'Te mandei o arquivo no e-mail.',
+    horario: '19:10',
+    avatar: 'https://i.pinimg.com/736x/fd/fc/ef/fdfcefc24e58a4e3ed4dd6099d530353.jpg',
+  },
+];
+
+export default contatos;
